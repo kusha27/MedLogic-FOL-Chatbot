@@ -1,0 +1,5 @@
+{
+  "name": "MedLogic FOL Chatbot",
+  "description": "A medical diagnostic chatbot powered by First-Order Logic (FOL) reasoning and Horn-clause knowledge bases, featuring symptom normalization and transparent proof traces.",
+  "requestFramePermissions": []
+}
